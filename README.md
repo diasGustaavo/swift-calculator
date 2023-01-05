@@ -1,6 +1,6 @@
 # swift-calculator
  
-A simple calculator design that works both in portrait and landscape mode made with swift storyboard in order to learn constraints, views & stack views concepts.
+A simple calculator that works both in portrait and landscape mode made with swift storyboard in order to learn constraints, views, stack views concepts & computed properties.
 
-![Simulator Screen Shot - iPhone 14 Pro - 2022-12-08 at 18 32 41](https://user-images.githubusercontent.com/60455369/206572343-01b455a0-193b-4379-898c-9582d4e33d2c.png)
-![Simulator Screen Shot - iPhone 14 Pro - 2022-12-08 at 18 32 48](https://user-images.githubusercontent.com/60455369/206572347-ae16959c-ebf3-42f3-b510-910280ffc566.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-01-05 at 16 27 02](https://user-images.githubusercontent.com/60455369/210863944-d176bafc-bc19-4473-a84d-55e4d37b55b9.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-01-05 at 16 28 13](https://user-images.githubusercontent.com/60455369/210864113-5f93f474-b8fc-46fa-92f0-65c6fb44de54.png)
